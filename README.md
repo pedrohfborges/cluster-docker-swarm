@@ -1,4 +1,4 @@
-#Pré requisitos: 
+# Pré requisitos: 
 
 * Ter o Vagrant instalado.
 
@@ -16,4 +16,4 @@ git clone https://github.com/pedrohfborges/cluster-docker-swarm.git
 ````
 Mover todos os arquivos desse repositório para a pasta padrão.
 
-Pasta padrão: está definida pela variável de ambiente $VAGRANT_WSL_WINDOWS_ACCESS_USER_HOME_PATH$ no .bashrc
+Pasta padrão: está definida pela variável de ambiente "VAGRANT_WSL_WINDOWS_ACCESS_USER_HOME_PATH" no .bashrc
