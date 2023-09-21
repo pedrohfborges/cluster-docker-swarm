@@ -1,1 +1,0 @@
-cat /configs/token.txt | grep -v ^- /configs/token.txt | grep 7$ | cut -d " " -f5-10
