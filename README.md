@@ -1,4 +1,4 @@
-# Pré requisitos: 
+## Pré requisitos: 
 
 * Ter o Vagrant instalado.
 
